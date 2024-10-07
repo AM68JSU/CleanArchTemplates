@@ -1,0 +1,621 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Presentation\\CleanArchTemplates.WebApi\\CleanArchTemplates.WebApi.csproj": {}
+  },
+  "projects": {
+    "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj",
+        "projectName": "CleanArchTemplates.Application",
+        "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj": {
+                "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj",
+        "projectName": "CleanArchTemplates.Domain",
+        "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.FileManager\\CleanArchTemplates.Infrastructure.FileManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.FileManager\\CleanArchTemplates.Infrastructure.FileManager.csproj",
+        "projectName": "CleanArchTemplates.Infrastructure.FileManager",
+        "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.FileManager\\CleanArchTemplates.Infrastructure.FileManager.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.FileManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj": {
+                "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Identity\\CleanArchTemplates.Infrastructure.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Identity\\CleanArchTemplates.Infrastructure.Identity.csproj",
+        "projectName": "CleanArchTemplates.Infrastructure.Identity",
+        "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Identity\\CleanArchTemplates.Infrastructure.Identity.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj": {
+                "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Persistence\\CleanArchTemplates.Infrastructure.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Persistence\\CleanArchTemplates.Infrastructure.Persistence.csproj",
+        "projectName": "CleanArchTemplates.Infrastructure.Persistence",
+        "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Persistence\\CleanArchTemplates.Infrastructure.Persistence.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj": {
+                "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj"
+              },
+              "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj": {
+                "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Resources\\CleanArchTemplates.Infrastructure.Resources.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Resources\\CleanArchTemplates.Infrastructure.Resources.csproj",
+        "projectName": "CleanArchTemplates.Infrastructure.Resources",
+        "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Resources\\CleanArchTemplates.Infrastructure.Resources.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Resources\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj": {
+                "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Presentation\\CleanArchTemplates.WebApi\\CleanArchTemplates.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Presentation\\CleanArchTemplates.WebApi\\CleanArchTemplates.WebApi.csproj",
+        "projectName": "CleanArchTemplates.WebApi",
+        "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Presentation\\CleanArchTemplates.WebApi\\CleanArchTemplates.WebApi.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Presentation\\CleanArchTemplates.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj": {
+                "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj"
+              },
+              "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.FileManager\\CleanArchTemplates.Infrastructure.FileManager.csproj": {
+                "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.FileManager\\CleanArchTemplates.Infrastructure.FileManager.csproj"
+              },
+              "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Identity\\CleanArchTemplates.Infrastructure.Identity.csproj": {
+                "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Identity\\CleanArchTemplates.Infrastructure.Identity.csproj"
+              },
+              "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Persistence\\CleanArchTemplates.Infrastructure.Persistence.csproj": {
+                "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Persistence\\CleanArchTemplates.Infrastructure.Persistence.csproj"
+              },
+              "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Resources\\CleanArchTemplates.Infrastructure.Resources.csproj": {
+                "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Resources\\CleanArchTemplates.Infrastructure.Resources.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Serilog.Enrichers.ClientInfo": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.Exceptions": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "Serilog.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Serilog.Sinks.Debug": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

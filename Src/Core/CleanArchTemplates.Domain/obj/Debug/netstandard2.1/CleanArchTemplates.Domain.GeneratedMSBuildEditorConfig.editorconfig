@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = CleanArchTemplates.Domain
+build_property.ProjectDir = D:\Source\GithubProject\CleanArchTemplates\CleanArchTemplates\Src\Core\CleanArchTemplates.Domain\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

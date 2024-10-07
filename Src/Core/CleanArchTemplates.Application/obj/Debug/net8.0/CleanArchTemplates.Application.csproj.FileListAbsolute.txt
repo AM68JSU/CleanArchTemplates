@@ -1,0 +1,16 @@
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Application\bin\Debug\net8.0\CleanArchTemplates.Application.deps.json
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Application\bin\Debug\net8.0\CleanArchTemplates.Application.dll
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Application\bin\Debug\net8.0\CleanArchTemplates.Application.pdb
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Application\bin\Debug\net8.0\CleanArchTemplates.Domain.dll
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Application\bin\Debug\net8.0\CleanArchTemplates.Domain.pdb
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Application\obj\Debug\net8.0\CleanArchTemplates.Application.csproj.AssemblyReference.cache
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Application\obj\Debug\net8.0\CleanArchTemplates.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Application\obj\Debug\net8.0\CleanArchTemplates.Application.AssemblyInfoInputs.cache
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Application\obj\Debug\net8.0\CleanArchTemplates.Application.AssemblyInfo.cs
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Application\obj\Debug\net8.0\CleanArchTemplates.Application.csproj.CoreCompileInputs.cache
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Application\obj\Debug\net8.0\CleanArchTemplates.Application.sourcelink.json
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Application\obj\Debug\net8.0\CleanArc.56288951.Up2Date
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Application\obj\Debug\net8.0\CleanArchTemplates.Application.dll
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Application\obj\Debug\net8.0\refint\CleanArchTemplates.Application.dll
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Application\obj\Debug\net8.0\CleanArchTemplates.Application.pdb
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Application\obj\Debug\net8.0\ref\CleanArchTemplates.Application.dll

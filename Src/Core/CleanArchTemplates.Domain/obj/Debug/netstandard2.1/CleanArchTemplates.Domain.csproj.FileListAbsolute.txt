@@ -1,0 +1,10 @@
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Domain\bin\Debug\netstandard2.1\CleanArchTemplates.Domain.deps.json
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Domain\bin\Debug\netstandard2.1\CleanArchTemplates.Domain.dll
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Domain\bin\Debug\netstandard2.1\CleanArchTemplates.Domain.pdb
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Domain\obj\Debug\netstandard2.1\CleanArchTemplates.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Domain\obj\Debug\netstandard2.1\CleanArchTemplates.Domain.AssemblyInfoInputs.cache
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Domain\obj\Debug\netstandard2.1\CleanArchTemplates.Domain.AssemblyInfo.cs
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Domain\obj\Debug\netstandard2.1\CleanArchTemplates.Domain.csproj.CoreCompileInputs.cache
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Domain\obj\Debug\netstandard2.1\CleanArchTemplates.Domain.sourcelink.json
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Domain\obj\Debug\netstandard2.1\CleanArchTemplates.Domain.dll
+D:\Source\GithubProject\CleanArchTemplates\Src\Core\CleanArchTemplates.Domain\obj\Debug\netstandard2.1\CleanArchTemplates.Domain.pdb

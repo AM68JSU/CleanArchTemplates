@@ -1,0 +1,8 @@
+{
+  "CleanArchTemplates.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application",
+  "CleanArchTemplates.Infrastructure.FileManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.FileManager",
+  "CleanArchTemplates.Infrastructure.Identity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Identity",
+  "CleanArchTemplates.Infrastructure.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Persistence",
+  "CleanArchTemplates.Infrastructure.Resources, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Resources",
+  "CleanArchTemplates.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Presentation\\CleanArchTemplates.WebApi"
+}

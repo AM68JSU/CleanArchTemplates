@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj",
+      "projectUniqueName": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj",
       "projectName": "CleanArchTemplates.Domain",
-      "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj",
+      "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\obj\\",
+      "outputPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Identity\\CleanArchTemplates.Infrastructure.Identity.csproj": {}
+    "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Identity\\CleanArchTemplates.Infrastructure.Identity.csproj": {}
   },
   "projects": {
-    "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj": {
+    "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj",
+        "projectUniqueName": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj",
         "projectName": "CleanArchTemplates.Application",
-        "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj",
+        "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\obj\\",
+        "outputPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj": {
-                "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj"
+              "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj": {
+                "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj": {
+    "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj",
+        "projectUniqueName": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj",
         "projectName": "CleanArchTemplates.Domain",
-        "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj",
+        "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\obj\\",
+        "outputPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -148,14 +148,14 @@
         }
       }
     },
-    "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Identity\\CleanArchTemplates.Infrastructure.Identity.csproj": {
+    "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Identity\\CleanArchTemplates.Infrastructure.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Identity\\CleanArchTemplates.Infrastructure.Identity.csproj",
+        "projectUniqueName": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Identity\\CleanArchTemplates.Infrastructure.Identity.csproj",
         "projectName": "CleanArchTemplates.Infrastructure.Identity",
-        "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Identity\\CleanArchTemplates.Infrastructure.Identity.csproj",
+        "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Identity\\CleanArchTemplates.Infrastructure.Identity.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Identity\\obj\\",
+        "outputPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -177,8 +177,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj": {
-                "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj"
+              "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj": {
+                "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj"
               }
             }
           }

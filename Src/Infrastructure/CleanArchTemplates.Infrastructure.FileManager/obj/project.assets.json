@@ -2956,11 +2956,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.FileManager\\CleanArchTemplates.Infrastructure.FileManager.csproj",
+      "projectUniqueName": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.FileManager\\CleanArchTemplates.Infrastructure.FileManager.csproj",
       "projectName": "CleanArchTemplates.Infrastructure.FileManager",
-      "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.FileManager\\CleanArchTemplates.Infrastructure.FileManager.csproj",
+      "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.FileManager\\CleanArchTemplates.Infrastructure.FileManager.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.FileManager\\obj\\",
+      "outputPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.FileManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2982,8 +2982,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj": {
-              "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj"
+            "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj": {
+              "projectPath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Application\\CleanArchTemplates.Application.csproj"
             }
           }
         }

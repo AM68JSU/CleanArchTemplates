@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QET4y8YdW+M=",
+  "dgSpecHash": "Aknk5y5X3d4=",
   "success": true,
-  "projectFilePath": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Resources\\CleanArchTemplates.Infrastructure.Resources.csproj",
+  "projectFilePath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Infrastructure\\CleanArchTemplates.Infrastructure.Resources\\CleanArchTemplates.Infrastructure.Resources.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.10.0\\fluentvalidation.dependencyinjectionextensions.11.10.0.nupkg.sha512",

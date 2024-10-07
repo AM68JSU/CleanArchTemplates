@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BJP+PLOdGRc=",
+  "dgSpecHash": "bCXnVn6IwTw=",
   "success": true,
-  "projectFilePath": "D:\\Source\\GithubProject\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj",
+  "projectFilePath": "D:\\Source\\GithubProject\\CleanArchTemplates\\CleanArchTemplates\\Src\\Core\\CleanArchTemplates.Domain\\CleanArchTemplates.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
